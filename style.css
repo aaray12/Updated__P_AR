@@ -1,0 +1,14 @@
+
+#mainDiv{
+    text-align: center;
+    margin: auto;
+    margin-top: 15%;
+}
+
+#name{
+    font-size: 100px;
+}
+#aboutDiv{
+    margin-top: 75px;
+    text-align: center;
+}
