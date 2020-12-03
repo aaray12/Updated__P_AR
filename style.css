@@ -20,3 +20,45 @@
 #myProj{
     margin-bottom: 25px;
 }
+.abText{
+   margin-top:50px;
+   margin-left: 10px;
+   margin-right: 10px;
+}
+#textMy{
+    text-align: center;
+}
+#aboutCon{
+    text-align: center;
+}
+#mainT{
+margin-top:50px;
+padding: 2%;
+border-style: ridge;
+background-color: white;
+}
+#aboutMe{
+    margin-left: 50px
+}
+#aboutBody{
+    background-color: whitesmoke;
+    font-family: 'B612 Mono', monospace;
+    
+}
+#porNav{
+    background-color: whitesmoke;
+    font-family: 'B612 Mono', monospace;
+}
+#mainBody{
+    background-color: whitesmoke;
+    font-family: 'B612 Mono', monospace;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:black;
+    color: white;
+    text-align: center;
+  }
